@@ -1,0 +1,34 @@
+h1
+{
+    text-align: center;
+}
+div
+{
+    background-color: rgb(24, 241, 231);
+    margin-left: 37%;
+    text-align: center;
+    max-width: 350px;
+    height: 200px;
+}
+p
+{
+    padding-top: 60px;
+    font-size: 60px;
+    text-align: center;
+}
+button
+{
+    font-weight: bolder;
+    color: black;
+    background-color: skyblue;
+    margin-top: 100px;
+    height: 60px;
+}
+.dec
+{
+    margin-left: -10px;
+}
+.inc
+{
+    margin-left: 190px;
+}
